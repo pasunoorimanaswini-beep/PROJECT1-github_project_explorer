@@ -2,7 +2,7 @@
 
 An interactive dashboard to discover popular GitHub repositories, filter and sort them, view analytics charts, and bookmark repos with personal notes. Built as part of my Web Development internship project at Elevate Labs.
 
-🔗 **Live demo:** https://pasunoorimanaswini-beep.github.io/github-project-explorer/
+🔗 **Live demo:** https://pasunoorimanaswini-beep.github.io/PROJECT1-github_project_explorer/
 
 ## Features
 - Search repositories using the GitHub REST API
